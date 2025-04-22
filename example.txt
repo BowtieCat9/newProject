@@ -1,1 +1,3 @@
-Okay, now I am updating this from GitHub...
+WOW! I have learned a lot today! 
+This whole shell/command line/terminal thing is super cool!
+
